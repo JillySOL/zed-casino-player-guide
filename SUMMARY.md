@@ -2,7 +2,7 @@
 
 ## Overview
 
-* [Welcome to ZED Casino](README.md)
+* [Welcome to ZED Racing](README.md)
 * [Getting Started](02-getting-started.md)
 
 ## Betting Basics

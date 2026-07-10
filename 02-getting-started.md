@@ -2,7 +2,7 @@
 
 ## How You Access ZED
 
-ZED Casino is embedded inside a partner casino. You launch it from your casino's games menu — there is no separate ZED account to create. Your partner casino account is your ZED account.
+ZED Racing is embedded inside a partner casino. You launch it from your casino's games menu — there is no separate ZED account to create. Your partner casino account is your ZED account.
 
 When you launch ZED for the first time:
 
