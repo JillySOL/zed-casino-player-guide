@@ -12,6 +12,7 @@
 * [Placing a Bet](05-placing-a-bet.md)
 * [Watching a Race](06-watching-a-race.md)
 * [Results and Payouts](07-results-and-payouts.md)
+* [How Your Odds Are Set](how-odds-are-set.md)
 
 ## Account & Wallet
 
