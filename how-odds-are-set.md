@@ -46,6 +46,6 @@ The number you see on the Race Card is the result of all four steps. And it is f
 * **The margin is transparent and consistent.** What you see is what you are paid. No extra maths at settlement.
 * **The result is independent.** The winner is decided provably and separately, never derived from the odds.
 
-## Coming later
+## Exotics and multis
 
-When exotic bets and multi-leg parlays arrive in a future season, they are priced by the same engine. Single-horse chances are combined, then the margin and caps are applied on top, so the fairness and transparency carry straight over.
+Exotic bets (Trifecta, Supafecta) and multi-leg parlays are priced by the same engine. For exotics, the single-horse chances from the simulations are combined into a price for the full finishing order. For a multi, the already-posted odds of each leg are multiplied together. The house margin and caps are then applied on top, so the fairness and transparency carry straight across every bet type.

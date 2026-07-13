@@ -9,6 +9,7 @@
 | Condition | Per-race state (Fast / Standard / Yielding / Heavy) that re-weights stats. |
 | Credit | ZED's display unit, USD-equivalent. Abbreviated "cr". |
 | DNA | A horse's hidden underlying stats — speed, endurance, acceleration, agility, consistency. |
+| Dutch bet | Backing several horses in one race with the stake split so every winning outcome returns the same profit. |
 | Elite | Top horse tier — 10% drop rate from packs. |
 | Fixed odds | Odds locked at the moment you place the bet. |
 | Form guide | A horse's recent finish positions, used for prediction. |
@@ -16,14 +17,17 @@
 | House edge / margin | The casino's built-in margin on bet payouts. 10% on Win in Season One. |
 | Jockey | The rider; contributes a hidden in-race modifier. |
 | Lobby | The home screen showing live + upcoming races. |
+| Multi | A single bet spanning several races; every leg must win, and the odds multiply together. |
 | Pack | A sealed bundle of 5 horses bought from the Pack Store. |
-| Place bet | A bet that wins if your horse finishes 1st or 2nd. |
+| Place bet | A bet that wins if your horse finishes in the top 3. |
 | Pool | The set of horses in active rotation — 1,080 in Season One. |
 | Round | A 3-hour block of 135 races; every horse races once per round. |
 | Season | ~1 calendar month of continuous racing, with leaderboards. |
 | Stable | Your owned horses, active and retired. |
 | Star rating | 1–5 stars indicating overall horse quality (the only stat revealed at pack opening). |
+| Supafecta | An exotic bet on the first four horses home; played straight (exact order) or boxed (any order). |
 | Surface | The track type (Polytrack, Tapeta, Cushion, Prefabricated). |
 | Syndicate | A shared-ownership group for a horse. |
 | Trainer | A long-term conditioning character; contributes a hidden modifier. |
+| Trifecta | An exotic bet on the first three horses home; played straight (exact order) or boxed (any order). |
 | Win bet | A bet that wins only if your horse finishes 1st. |

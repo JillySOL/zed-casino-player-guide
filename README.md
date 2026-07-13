@@ -17,4 +17,4 @@ Two things make ZED different from traditional racing:
 1. It never sleeps. Races run continuously. There is always one running and one queued.
 2. Horses are persistent. Every horse in the pool is a real, named entity with a career record. Over time you learn their strengths.
 
-**Season One note.** ZED Racing is in public beta. The horse pool is capped at 1,080 horses and only single bets are available. More features (exotic bets, multi-leg parlays, expanded pool) are planned for later seasons.
+**Season One note.** ZED Racing is in public beta. The horse pool is capped at 1,080 horses. Win, Place, Multi, Trifecta, Supafecta, and Dutch bets are all available (see [Placing a Bet](05-placing-a-bet.md)). An expanded horse pool and further features are planned for later seasons.

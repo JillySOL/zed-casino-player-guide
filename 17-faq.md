@@ -18,8 +18,8 @@ Yes. The odds at the moment you place your bet are the odds you're paid at. They
 **Q: Can I bet on multiple horses in the same race?**
 Yes. You can place a Win bet on one horse and a Place bet on another, or any combination of singles within the limits.
 
-**Q: Are exotic bets (Exacta, Trifecta, etc.) available?**
-Not in Season One. They're planned for later.
+**Q: What bet types can I place?**
+Win, Place (top 3), Multi, Trifecta, Supafecta, and Dutch. See [Placing a Bet](05-placing-a-bet.md) for how each one works.
 
 **Q: Can I sell or trade horses?**
 Not in Season One. Horses are acquired only through syndicate packs; trading is a future feature.
