@@ -41,7 +41,7 @@ Stack multiple races into one bet and let the odds multiply. Pick a winner in ea
 
 <summary><strong>Trifecta</strong></summary>
 
-Pick the first three horses home, in exact finishing order. It's the hardest single-race bet on the board, which is why it consistently throws the biggest single-race payouts. Two ways to play it:
+Pick the first three horses home, in exact finishing order. It's one of the hardest bets on the board (only the Supafecta asks more), which is why it consistently throws big single-race payouts. Two ways to play it:
 
 * **Straight.** Your three horses must finish 1st, 2nd, 3rd in the exact order you picked. One combination, one price.
 * **Boxed.** Your three horses can finish in the top three in any order. Three horses boxed covers all 6 possible finishing orders, so it costs 6× a straight bet at the same unit stake, but any combination collects. You can also box 4 or more horses (4 horses = 24 combinations) to widen the net.
@@ -52,7 +52,7 @@ Pick the first three horses home, in exact finishing order. It's the hardest sin
 
 <summary><strong>Supafecta</strong></summary>
 
-The trifecta's big brother: nail the first four horses home in exact finishing order. In a 12-horse field there are 11,880 possible finishing orders for the first four, which is exactly why the payouts are massive. Play it straight for maximum return, or box four or more horses to cover every combination (4 horses boxed = 24 combos, 5 horses = 120). Most players attack it with a small unit stake across a wide box. This is the lottery ticket of the racing page: cheap to swing, huge when it lands.
+The trifecta's big brother: nail the first four horses home in exact finishing order. In an 8-horse field there are 1,680 possible finishing orders for the first four, which is exactly why the payouts are massive. Play it straight for maximum return, or box four or more horses to cover every combination (4 horses boxed = 24 combos, 5 horses = 120). Most players attack it with a small unit stake across a wide box. This is the lottery ticket of the racing page: cheap to swing, huge when it lands.
 
 </details>
 
