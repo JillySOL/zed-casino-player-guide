@@ -31,6 +31,10 @@
 
 * [Seasons, Rounds, and Leaderboards](13-seasons-rounds-leaderboards.md)
 
+## Fairness
+
+* [Provably Fair](provably-fair.md)
+
 ## Help & Reference
 
 * [Tips for New Players](16-tips-for-new-players.md)

@@ -13,7 +13,7 @@ For every horse, we tally two things:
 
 That frequency is the raw signal behind the price. A horse that wins 200 of the 1,000 runs is roughly a 1-in-5 shot. One that wins 20 is a genuine long-shot.
 
-**These practice runs are throwaway.** They only measure the *shape* of the field, not the outcome. The real race result is decided separately by a provably-fair method with a committed seed, so the actual winner can never leak out of the odds.
+**These practice runs are throwaway.** They only measure the *shape* of the field, not the outcome. The real race result is decided separately by a provably-fair method with a committed seed, so the actual winner can never leak out of the odds. For the full technical detail, see [Provably Fair](provably-fair.md).
 
 ## Step 2: Fair odds, with a floor for long-shots
 
