@@ -1,8 +1,6 @@
-# ZED Racing — Player User Guide
+# Welcome to ZED Racing
 
-**Status:** Season One (public beta)
-**Last updated:** 2026-05-12
-**Audience:** Players. New to ZED Racing, or returning and want a refresher.
+<figure><img src=".gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
 
 ## Welcome to ZED Racing
 
